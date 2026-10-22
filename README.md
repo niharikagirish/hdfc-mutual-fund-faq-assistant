@@ -8,6 +8,21 @@ The corpus is a closed, versioned allowlist (`app/sources.py:ALLOWLIST`). The
 assistant cannot browse the web at query time, cannot use general model knowledge,
 and cannot answer about any fund outside the five pages below.
 
+## Live Demo
+
+[**Open the HDFC Mutual Fund FAQ Assistant**](https://nextleap27thsept.onrender.com)
+
+## Screenshots
+
+### Chatbot Homepage
+![Chatbot homepage](assets/01-chatbot-home.png)
+
+### Expense Ratio Query
+![Expense ratio answer](assets/02-expense-ratio-answer.png)
+
+### ELSS Lock-in Query
+![ELSS lock-in answer](assets/03-elss-lock-in-answer.png)
+
 ## The five sources
 
 All five are HDFC Asset Management schemes, all **Direct-Growth**, all public
